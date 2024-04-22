@@ -1,2 +1,2 @@
 # projeto-banco-dio
-repositorio destinado ao projeto pertencido ao bootcamp java da DIO
+repositorio destinado ao projeto do bootcamp java da DIO
